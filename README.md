@@ -15,5 +15,9 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 ### 💬 Vamos nos conectar!
 - [Instagram](https://www.instagram.com/rodriiguess.zx/)
 
+- ### 📊 Meus Gráficos de Contribuição
+![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dark&count_private=true)
+
+
 
 
