@@ -24,6 +24,11 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 - **Banco de Dados**: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 - **DevOps**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+- ### 📊 Meus Gráficos de Contribuição
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+### 📅 Participação na Comunidade
+
 
 
 
