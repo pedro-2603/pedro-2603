@@ -27,6 +27,24 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 ### 📅 Participação na Comunidade
 ![Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
 
+### 🏅 Conquistas:
+![Codewars Badge](https://www.codewars.com/users/seunome/badges/large)
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-5_Stars-brightgreen)
+![Contribuidor Open-Source](https://img.shields.io/badge/Open%20Source%20Contributor-Active-blue)
+
+ ### 🌐 Meu Blog:
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://seublog.com)
+
+### 📑 Meu Portfólio:
+[![Portfólio](https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)](https://seuportfolio.com)
+
+### 🏅 Conquistas:
+![Codewars Badge](https://www.codewars.com/users/seunome/badges/large)
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-5_Stars-brightgreen)
+![Contribuidor Open-Source](https://img.shields.io/badge/Open%20Source%20Contributor-Active-blue)
+
+
+
 
 
 
