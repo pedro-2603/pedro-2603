@@ -15,6 +15,14 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 ### 💬 Vamos nos conectar!
 - [Instagram](https://www.instagram.com/rodriiguess.zx/)
 
+### 🛠️ Tecnologias que estou aprendendo:
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python, Node.js
+- **Outras Ferramentas**: GitHub, VS Code, Figma
+
+### 📝 Meu Objetivo:
+- Continuar aprendendo programação para eventualmente seguir uma carreira em **Desenvolvimento de Software** ou **Ciência de Dados**.
+
 - ### 📊 Meus Gráficos de Contribuição
 ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dark&count_private=true)
 
@@ -27,10 +35,7 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 ### 📅 Participação na Comunidade
 ![Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
 
-### 🏅 Conquistas:
-![Codewars Badge](https://www.codewars.com/users/seunome/badges/large)
-![HackerRank Badge](https://img.shields.io/badge/HackerRank-5_Stars-brightgreen)
-![Contribuidor Open-Source](https://img.shields.io/badge/Open%20Source%20Contributor-Active-blue)
+
 
  ### 🌐 Meu Blog:
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://seublog.com)
