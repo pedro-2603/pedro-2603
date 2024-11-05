@@ -14,6 +14,7 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 
 ### 💬 Vamos nos conectar!
 - [Instagram](https://www.instagram.com/rodriiguess.zx/)
+- [Email](p.santos@aluno.ifce.edu.br)
 
 ### 🛠️ Tecnologias que estou aprendendo:
 - **Frontend**: HTML, CSS, JavaScript
