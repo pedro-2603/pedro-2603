@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Lucas! 👋
 
-<!--
-**pedro-2603/pedro-2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criação de sitees, programar em varias linguagens. Atualmente estou focado no Ensino Médio, estudando no IFCE.
 
-Here are some ideas to get you started:
+### 🚀 O que estou fazendo atualmente?
+- Aprendendo mais sobre java, javascrip, linguagens de marcação, HTML, CSS.
+- Contribuindo para projetos, LEIAH Laboratorio de Eletronica Informatica Aplicada e Humaninades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📚 Habilidades
+- 🖥️ **Desenvolvimento**: Adimistração de Servidores.
+- 🔧 **Ferramentas**: VSCode, Eclipse.
+- 🌐 **Web**: Tegs, linguagem de marcação, CSS, HTML.
+
+### 💬 Vamos nos conectar!
+- [Instagram](https://www.instagram.com/rodriiguess.zx/)
+
+
+
