@@ -22,12 +22,10 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 - **Frontend**: ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 - **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 - **Banco de Dados**: ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-- **DevOps**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-- ### 📊 Meus Gráficos de Contribuição
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide=prs&theme=radical)
+- **DevOps**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
 
 ### 📅 Participação na Comunidade
+![Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
 
 
 
