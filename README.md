@@ -43,6 +43,9 @@ Sou desenvolvedor apaixonado por Progarmação e gosto de trabalhar com criaçã
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-5_Stars-brightgreen)
 ![Contribuidor Open-Source](https://img.shields.io/badge/Open%20Source%20Contributor-Active-blue)
 
+![Apresentação em GIF](https://path-to-your-gif.com)
+
+
 
 
 
